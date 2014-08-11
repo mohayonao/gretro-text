@@ -5,7 +5,7 @@ var fs  = require("fs");
 
 var gretro = require("gretro");
 
-gretro.use(require("../gretro-text"));
+gretro.use(require("../"));
 
 var asciiTable = function(size) {
   var padding = (size - 8) >> 1;

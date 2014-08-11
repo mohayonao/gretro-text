@@ -12,7 +12,7 @@
     "url": "git://github.com/mohayonao/gretro-text.git"
   },
   "bugs": "http://github.com/mohayonao/gretro-text/issues",
-  "main": "index.js",
+  "main": "gretro-text.js",
   "scripts": {
     "test": "mocha"
   },

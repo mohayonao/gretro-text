@@ -4,7 +4,7 @@ var chai   = require("chai");
 var expect = chai.expect;
 var gretro = require("gretro");
 
-gretro.use(require("../gretro-text"));
+gretro.use(require("../"));
 
 var $$ = 15;
 var __ =  0;
