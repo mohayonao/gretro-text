@@ -1,0 +1,27 @@
+{
+  "name": "gretro-text",
+  "version": "0.1.0",
+  "author": "mohayonao <mohayonao@gmail.com>",
+  "description": "gretro plugin to draw a text",
+  "license": "MIT",
+  "keyword": [
+    "gretro"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mohayonao/gretro-text.git"
+  },
+  "bugs": "http://github.com/mohayonao/gretro-text/issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "gretro": "^0.2.0"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4",
+    "png": "^3.0.3"
+  }
+}
