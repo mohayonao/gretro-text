@@ -5,7 +5,7 @@
 
 > Gretro-text is a [gretro](https://github.com/mohayonao/gretro) plugin to draw a text.
 
-![](https://raw.githubusercontent.com/mohayonao/gretro-text/master/gretro-text.js/ascii-table.png)
+![](https://raw.githubusercontent.com/mohayonao/gretro-text/master/examples/ascii-table.png)
 
 ## Installation
 
@@ -49,7 +49,7 @@ canvas.char(ch, x, y);
 #### Parameters
 
   - **ch**: int
-    - ascii code
+    - ascii code (0x21 <= ch <= 0x7e)
   - **x**: int
     - x-coordinate of the character
   - **y**: int
